@@ -1,0 +1,13 @@
+pandas
+numpy
+tensorflow
+tensorflow-hub
+tensorflow-datasets
+scikit-learn
+nltk
+seaborn
+joblib
+matplotlib
+ipykernel
+nbformat
+nbconvert

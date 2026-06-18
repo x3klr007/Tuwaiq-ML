@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-score
+Logistic Regression,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0
+KNN,1.0,1.0,1.0,1.0
+Neural Network (Base),1.0,1.0,1.0,1.0
+Neural Network (Improved),1.0,1.0,1.0,1.0
+BERT (Transfer Learning),1.0,1.0,1.0,1.0
