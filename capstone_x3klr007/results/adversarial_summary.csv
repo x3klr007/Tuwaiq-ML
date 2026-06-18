@@ -1,0 +1,6 @@
+Attack Type,Input Review,True Label,Logistic Regression,Random Forest,KNN,Neural Network (Base),Neural Network (Improved),BERT (Transfer Learning)
+Standard Positive,This movie was absolutely fantastic! The acting was superb and the plot was engaging.,positive,positive,positive,positive,positive,positive,positive
+Typo Attack,This movie was absolutly fantastik! The actin was superrb and the plot was engagin.,positive,positive,positive,positive,negative,positive,positive
+Sarcasm Attack,What a masterpiece! I especially loved the part where I fell asleep out of pure boredom.,negative,positive,positive,negative,positive,positive,negative
+Negation Attack,"I expected this movie to be terrible, but it was not bad at all.",positive,negative,positive,negative,negative,negative,negative
+Sarcasm/Negation Attack,"Oh, what a brilliant idea to make a movie with absolutely no plot!",negative,positive,positive,positive,positive,positive,negative
